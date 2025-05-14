@@ -17,6 +17,8 @@ Then, change the Plasma Style and Colors to Bluish in settings.
 
 ### Bluish Plasma Style
 
+![Plasma Style](https://github.com/user-attachments/assets/3e7ae5fd-7261-4707-baea-d496b79319c7)
+
 Based on **K10neBlack** by **phob1an** and **Materia Manjaro Dark** by **freefreeno**. Goes well with Papirus Dark icons.
 
 Fixes:
@@ -30,6 +32,8 @@ Wontfix:
 - A few plasmoid icons like volume and clipboard brighten up on hover, even if they have solid fill with full opacity. More like a cantfix than a wontfix.
 
 ### Bluish Colors
+
+![Colors](https://github.com/user-attachments/assets/8c73c170-a3f1-49a3-b83e-d64382e0351c)
 
 Based on **Sweet** by **EliverLara** and **Rosé Pine**. Goes well with Papirus Dark icons.
 
