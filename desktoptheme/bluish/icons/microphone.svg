@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg3638"
+   sodipodi:docname="microphone.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3640"
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="45.254834"
+     inkscape:cx="18.362679"
+     inkscape:cy="6.5959805"
+     inkscape:window-width="1920"
+     inkscape:window-height="1036"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="microphone-sensitivity-high">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3759" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3632">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#333333
+; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  </defs>
+  <g
+     id="microphone-sensitivity-muted">
+    <rect
+       id="rect3889"
+       width="16"
+       height="16"
+       x="48"
+       y="-1.5000001e-07"
+       rx="0"
+       ry="0"
+       style="fill:none"
+       inkscape:label="rect3889" />
+    <path
+       style="color:#dfdfdf;opacity:1;fill:#dedede;fill-opacity:1;stroke-width:0.73907"
+       class="ColorScheme-Text"
+       d="m 56.000363,2.0874337 c -0.920887,0 -1.708072,0.5554119 -2.043975,1.3510965 v 0.00146 L 58.217576,7.699991 V 4.304686 c 0,-1.2284106 -0.988882,-2.2172138 -2.217213,-2.2172138 z m -4.180338,0.6928791 -1.039349,1.0393557 3.002474,3.0024036 v 1.1779316 c 0,1.2284094 0.988801,2.2172143 2.217213,2.2172143 0.344285,0 0.665668,-0.08355 0.954139,-0.223741 l 0.53843,0.538432 c -0.437532,0.260154 -0.939358,0.424223 -1.492924,0.424223 -1.650639,0 -2.956284,-1.3059376 -2.956284,-2.9562831 v -0.739071 h -1.478145 v 0.739071 c 0,2.1946731 1.598168,4.0147811 3.695358,4.3651031 v 1.547614 h 1.478143 v -1.54747 c 0.6727,-0.112384 1.284211,-0.390019 1.817373,-0.769369 l 1.623741,1.623735 1.03913,-1.039128 -9.399501,-9.3995111 z m 7.136623,4.4806198 v 0.7390711 c 0,0.137371 -0.02147,0.26781 -0.03897,0.3998531 l 1.209626,1.2096374 C 60.322427,9.1098813 60.434766,8.5681427 60.434766,7.9997967 V 7.2607255 h -1.478141 z"
+       id="path5" />
+  </g>
+  <g
+     id="microphone-sensitivity-high">
+    <path
+       style="color:#dfdfdf;fill:#dedede;fill-opacity:1;stroke-width:0.739583"
+       class="ColorScheme-Text"
+       d="m 8.0000038,2.0833334 c -1.2292608,0 -2.2187481,0.9894872 -2.2187481,2.2187479 v 3.6979133 c 0,1.2292593 0.9894873,2.2187484 2.2187481,2.2187484 1.2292606,0 2.2187482,-0.9894891 2.2187482,-2.2187484 V 4.3020813 c 0,-1.2292607 -0.9894876,-2.2187479 -2.2187482,-2.2187479 z M 3.5625077,7.260412 v 0.7395743 c 0,2.1961957 1.5992736,4.0175647 3.6979133,4.3681197 v 1.548543 H 8.7395864 V 12.368106 C 10.838226,12.017476 12.4375,10.196099 12.4375,7.9999863 V 7.260412 h -1.479165 v 0.7395743 c 0,1.6517848 -1.3065481,2.9583307 -2.9583312,2.9583307 -1.6517832,0 -2.9583308,-1.3065459 -2.9583308,-2.9583307 V 7.260412 Z"
+       id="path258" />
+    <rect
+       id="rect3862"
+       width="16"
+       height="16"
+       x="3.76e-06"
+       y="-9.4075995e-06"
+       rx="0"
+       ry="0"
+       style="fill:none" />
+  </g>
+  <g
+     id="microphone-sensitivity-medium">
+    <rect
+       id="rect3875"
+       width="16"
+       height="16"
+       x="16"
+       y="0"
+       rx="0"
+       ry="0"
+       style="fill:none" />
+    <path
+       style="color:#dfdfdf;fill:#dedede;fill-opacity:1;stroke-width:0.739584"
+       class="ColorScheme-Text"
+       d="m 24,2.0833376 c -1.229263,0 -2.218751,0.9894873 -2.218751,2.2187494 v 3.6979175 c 0,1.2292594 0.989488,2.2187495 2.218751,2.2187495 1.229262,0 2.218749,-0.9894901 2.218749,-2.2187495 V 4.302087 C 26.218749,3.0728249 25.229262,2.0833376 24,2.0833376 Z M 19.5625,7.260421 v 0.7395745 c 0,2.1961975 1.599275,4.0175685 3.697916,4.3681235 v 1.548543 h 1.479168 V 12.368119 C 26.838224,12.017488 28.4375,10.19611 28.4375,7.9999955 V 7.260421 h -1.479167 v 0.7395745 c 0,1.6517856 -1.306552,2.9583325 -2.958333,2.9583325 -1.651782,0 -2.958334,-1.3065469 -2.958334,-2.9583325 V 7.260421 Z"
+       id="path258-6" />
+  </g>
+  <g
+     id="microphone-sensitivity-low">
+    <rect
+       id="rect3883"
+       width="16"
+       height="16"
+       x="32"
+       y="0"
+       rx="0"
+       ry="0"
+       style="fill:none" />
+    <path
+       style="color:#dfdfdf;fill:#dedede;fill-opacity:1;stroke-width:0.739584"
+       class="ColorScheme-Text"
+       d="m 40,2.0833372 c -1.229264,0 -2.21875,0.9894882 -2.21875,2.21875 v 3.6979167 c 0,1.2292604 0.989486,2.2187501 2.21875,2.2187501 1.229264,0 2.21875,-0.9894897 2.21875,-2.2187501 V 4.3020872 c 0,-1.2292618 -0.989486,-2.21875 -2.21875,-2.21875 z m -4.4375,5.1770835 v 0.7395748 c 0,2.1961975 1.599275,4.0175685 3.697916,4.3681235 v 1.548544 h 1.479168 V 12.368119 C 42.838225,12.017489 44.4375,10.19611 44.4375,7.9999955 V 7.2604207 h -1.479168 v 0.7395748 c 0,1.6517863 -1.30655,2.9583335 -2.958332,2.9583335 -1.651783,0 -2.958332,-1.3065472 -2.958332,-2.9583335 V 7.2604207 Z"
+       id="path258-7" />
+  </g>
+</svg>
