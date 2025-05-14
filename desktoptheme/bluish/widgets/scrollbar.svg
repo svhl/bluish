@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3120" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" width="48" xmlns:cc="http://creativecommons.org/ns#" xmlns="http://www.w3.org/2000/svg" height="98">
+ <metadata id="metadata3125">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(.000017383 -988.36)">
+  <rect id="hint-scrollbar-size" x="23" y="998.36" ry="3" fill="#3498db" height="6" width="6"/>
+  <rect id="hint-tile-center" x="12.26" y="995.02" ry="2.0771" rx="0" fill="#4e9a06" height="2.0771" width="2.0329"/>
+  <g id="mouseover-slider-topright" fill="#2093ee" transform="translate(-77 20)">
+   <path id="rect4343" d="m100 1001.4v2h2c0-1.108-0.89201-2-2-2z" fill="#2093ee"/>
+  </g>
+  <g id="mouseover-slider-topleft" fill="#2093ee" transform="matrix(-1 0 0 1 120 20)">
+   <path id="path4361" d="m100 1001.4v2h2c0-1.108-0.89201-2-2-2z" fill="#2093ee"/>
+  </g>
+  <g id="mouseover-slider-top" fill="#2093ee" transform="translate(-78,20)">
+   <rect id="rect4365" x="99" y="1001.4" fill="#2093ee" height="2" width="1"/>
+  </g>
+  <g id="mouseover-slider-right" fill="#2093ee" transform="matrix(0 9 -1 0 1026.4 133.36)">
+   <rect id="rect4377" x="99" y="1001.4" fill="#2093ee" height="2" width="1"/>
+  </g>
+  <g id="mouseover-slider-left" fill="#2093ee" transform="matrix(0 9 1 0 -983.36 133.36)">
+   <rect id="rect4383" x="99" y="1001.4" fill="#2093ee" height="2" width="1"/>
+  </g>
+  <g id="mouseover-slider-bottomright" fill="#2093ee" transform="matrix(1 0 0 -1 -77 2037.7)">
+   <path id="path4389" d="m100 1001.4v2h2c0-1.108-0.89201-2-2-2z" fill="#2093ee"/>
+  </g>
+  <g id="mouseover-slider-bottomleft" fill="#2093ee" transform="matrix(-1 0 0 -1 120 2037.7)">
+   <path id="path4395" d="m100 1001.4v2h2c0-1.108-0.89201-2-2-2z" fill="#2093ee"/>
+  </g>
+  <g id="mouseover-slider-bottom" fill="#2093ee" transform="matrix(1 0 0 -1 -78 2037.7)">
+   <rect id="rect4401" x="99" y="1001.4" fill="#2093ee" height="2" width="1"/>
+  </g>
+  <rect id="mouseover-slider-center" x="21" y="1024.4" fill="#2093ee" height="9" width="1"/>
+  <g id="slider-topright" fill="#5a5a5a" transform="translate(-65 20)">
+   <path id="path4409" d="m100 1001.4v2h2c0-1.108-0.89201-2-2-2z" fill="#5a5a5a"/>
+  </g>
+  <g id="slider-topleft" fill="#5a5a5a" transform="matrix(-1 0 0 1 132 20)">
+   <path id="path4415" d="m100 1001.4v2h2c0-1.108-0.89201-2-2-2z" fill="#5a5a5a"/>
+  </g>
+  <g id="slider-top" fill="#5a5a5a" transform="translate(-66,20)">
+   <rect id="rect4421" x="99" y="1001.4" fill="#5a5a5a" height="2" width="1"/>
+  </g>
+  <g id="slider-right" fill="#5a5a5a" transform="matrix(0 9 -1 0 1038.4 133.36)">
+   <rect id="rect4427" x="99" y="1001.4" fill="#5a5a5a" height="2" width="1"/>
+  </g>
+  <g id="slider-left" fill="#5a5a5a" transform="matrix(0 9 1 0 -971.36 133.36)">
+   <rect id="rect4433" x="99" y="1001.4" fill="#5a5a5a" height="2" width="1"/>
+  </g>
+  <g id="slider-bottomright" fill="#5a5a5a" transform="matrix(1 0 0 -1 -65 2037.7)">
+   <path id="path4439" d="m100 1001.4v2h2c0-1.108-0.89201-2-2-2z" fill="#5a5a5a"/>
+  </g>
+  <g id="slider-bottomleft" fill="#5a5a5a" transform="matrix(-1 0 0 -1 132 2037.7)">
+   <path id="path4445" d="m100 1001.4v2h2c0-1.108-0.89201-2-2-2z" fill="#5a5a5a"/>
+  </g>
+  <g id="slider-bottom" fill="#5a5a5a" transform="matrix(1 0 0 -1 -66 2037.7)">
+   <rect id="rect4451" x="99" y="1001.4" fill="#5a5a5a" height="2" width="1"/>
+  </g>
+  <rect id="slider-center" x="33" y="1024.4" fill="#5a5a5a" height="9" width="1"/>
+  <g id="sunken-slider-topright" fill="#12bcfa" transform="translate(-78 43)">
+   <path id="path4559" d="m100 1001.4v2h2c0-1.108-0.89201-2-2-2z" fill="#12bcfa"/>
+  </g>
+  <g id="sunken-slider-topleft" fill="#12bcfa" transform="matrix(-1 0 0 1 119 43)">
+   <path id="path4565" d="m100 1001.4v2h2c0-1.108-0.89201-2-2-2z" fill="#12bcfa"/>
+  </g>
+  <g id="sunken-slider-top" fill="#12bcfa" transform="translate(-79 43)">
+   <rect id="rect4571" x="99" y="1001.4" fill="#12bcfa" height="2" width="1"/>
+  </g>
+  <g id="sunken-slider-right" fill="#12bcfa" transform="matrix(0 9 -1 0 1025.4 156.36)">
+   <rect id="rect4577" x="99" y="1001.4" fill="#12bcfa" height="2" width="1"/>
+  </g>
+  <g id="sunken-slider-left" fill="#12bcfa" transform="matrix(0 9 1 0 -984.36 156.36)">
+   <rect id="rect4583" x="99" y="1001.4" fill="#12bcfa" height="2" width="1"/>
+  </g>
+  <g id="sunken-slider-bottomright" fill="#12bcfa" transform="matrix(1 0 0 -1 -78 2060.7)">
+   <path id="path4589" d="m100 1001.4v2h2c0-1.108-0.89201-2-2-2z" fill="#12bcfa"/>
+  </g>
+  <g id="sunken-slider-bottomleft" fill="#12bcfa" transform="matrix(-1 0 0 -1 119 2060.7)">
+   <path id="path4595" d="m100 1001.4v2h2c0-1.108-0.89201-2-2-2z" fill="#12bcfa"/>
+  </g>
+  <g id="sunken-slider-bottom" fill="#12bcfa" transform="matrix(1 0 0 -1 -79 2060.7)">
+   <rect id="rect4601" x="99" y="1001.4" fill="#12bcfa" height="2" width="1"/>
+  </g>
+  <rect id="sunken-slider-center" x="20" y="1047.4" fill="#12bcfa" height="9" width="1"/>
+ </g>
+</svg>
