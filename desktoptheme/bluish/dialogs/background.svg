@@ -2,24 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="57.5"
    height="61.659176"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="0.92pre2 15180"
-   sodipodi:docname="background.svgz"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="background.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    version="1.0"
-   viewBox="0 0 57.500001 61.659177">
+   viewBox="0 0 57.500001 61.659177"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
   <sodipodi:namedview
      id="base"
      pagecolor="#919191"
@@ -27,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.016273"
-     inkscape:cx="1.4299051"
-     inkscape:cy="22.316398"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="28.490945"
+     inkscape:cx="27.815855"
+     inkscape:cy="32.097917"
+     inkscape:current-layer="topleft"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1145"
+     inkscape:window-width="1536"
+     inkscape:window-height="922"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="148px"
@@ -55,21 +55,570 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-global="true"
      inkscape:snap-grids="false"
-     inkscape:snap-to-guides="false">
+     inkscape:snap-to-guides="false"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid6589"
        enabled="false"
        originx="-21.499998"
-       originy="-93.999967" />
+       originy="-93.999967"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs3644">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect20"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,16,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect19"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,16,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,16,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,16,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect18"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,14.482669,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect17"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,14.482669,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect16"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,14.482669,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect15"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,14.409472,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect40"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,14.993607,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect39"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,15.062025,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect38"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect37"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,15.043484,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect36"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect35"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,15.010478,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect34"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect33"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect32"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,10.994188,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect30"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,10.84653,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect28"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,10.845526,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect26"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,10.87106,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect14"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,10.845526,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect13"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,10.87106,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect12"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,10.84653,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,10.994188,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect10"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,3.4121419,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,3.4155215,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,3.4245941,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,3.4146332,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <linearGradient
        id="linearGradient4488"
        osb:paint="solid">
       <stop
-         style="stop-color:#141414;stop-opacity:1;"
+         style="stop-color:#282828;stop-opacity:1;"
          offset="0"
          id="stop4486" />
     </linearGradient>
@@ -78,19 +627,19 @@
       <stop
          id="stop4430"
          offset="0"
-         style="stop-color:#141414;stop-opacity:0.78431374;" />
+         style="stop-color:#282828;stop-opacity:0.78431374;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.29411766;"
+         style="stop-color:#282828;stop-opacity:0.29411766;"
          offset="0.5"
          id="stop4432" />
       <stop
          id="stop4434"
          offset="0.75"
-         style="stop-color:#141414;stop-opacity:0.07843138;" />
+         style="stop-color:#282828;stop-opacity:0.07843138;" />
       <stop
          id="stop4436"
          offset="1"
-         style="stop-color:#141414;stop-opacity:0;" />
+         style="stop-color:#282828;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3218">
@@ -99,17 +648,17 @@
          offset="0"
          style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.25490198;"
+         style="stop-color:#282828;stop-opacity:0.25490198;"
          offset="0.38461465"
          id="stop3222" />
       <stop
          id="stop3224"
          offset="0.69230753"
-         style="stop-color:#141414;stop-opacity:0.09411765;" />
+         style="stop-color:#282828;stop-opacity:0.09411765;" />
       <stop
          id="stop3226"
          offset="1"
-         style="stop-color:#141414;stop-opacity:0;" />
+         style="stop-color:#282828;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3208">
@@ -118,17 +667,17 @@
          offset="0"
          style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.25490198;"
+         style="stop-color:#282828;stop-opacity:0.25490198;"
          offset="0.38461545"
          id="stop3212" />
       <stop
          id="stop3214"
          offset="0.69230783"
-         style="stop-color:#141414;stop-opacity:0.09411765;" />
+         style="stop-color:#282828;stop-opacity:0.09411765;" />
       <stop
          id="stop3216"
          offset="1"
-         style="stop-color:#141414;stop-opacity:0;" />
+         style="stop-color:#282828;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3197">
@@ -137,17 +686,17 @@
          offset="0"
          style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.3137255;"
+         style="stop-color:#282828;stop-opacity:0.3137255;"
          offset="0.38461527"
          id="stop3202" />
       <stop
          id="stop3204"
          offset="0.69230777"
-         style="stop-color:#141414;stop-opacity:0.11764706;" />
+         style="stop-color:#282828;stop-opacity:0.11764706;" />
       <stop
          id="stop3206"
          offset="1"
-         style="stop-color:#141414;stop-opacity:0;" />
+         style="stop-color:#282828;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4016">
@@ -279,19 +828,19 @@
       <stop
          id="stop3901"
          offset="0"
-         style="stop-color:#141414;stop-opacity:1;" />
+         style="stop-color:#282828;stop-opacity:1;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.3137255;"
+         style="stop-color:#282828;stop-opacity:0.3137255;"
          offset="0.33333325"
          id="stop3903" />
       <stop
          id="stop3905"
          offset="0.66666669"
-         style="stop-color:#141414;stop-opacity:0.08627451;" />
+         style="stop-color:#282828;stop-opacity:0.08627451;" />
       <stop
          id="stop3907"
          offset="1"
-         style="stop-color:#141414;stop-opacity:0;" />
+         style="stop-color:#282828;stop-opacity:0;" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -309,19 +858,19 @@
       <stop
          id="stop3921"
          offset="0"
-         style="stop-color:#141414;stop-opacity:1;" />
+         style="stop-color:#282828;stop-opacity:1;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.3137255;"
+         style="stop-color:#282828;stop-opacity:0.3137255;"
          offset="0.33333349"
          id="stop3923" />
       <stop
          id="stop3925"
          offset="0.66666692"
-         style="stop-color:#141414;stop-opacity:0.08627451;" />
+         style="stop-color:#282828;stop-opacity:0.08627451;" />
       <stop
          id="stop3927"
          offset="1"
-         style="stop-color:#141414;stop-opacity:0;" />
+         style="stop-color:#282828;stop-opacity:0;" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -337,19 +886,19 @@
     <linearGradient
        id="linearGradient3978">
       <stop
-         style="stop-color:#141414;stop-opacity:1;"
+         style="stop-color:#282828;stop-opacity:1;"
          offset="0"
          id="stop3980" />
       <stop
          id="stop3867"
          offset="0.3333354"
-         style="stop-color:#141414;stop-opacity:0.3137255;" />
+         style="stop-color:#282828;stop-opacity:0.3137255;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.08627451;"
+         style="stop-color:#282828;stop-opacity:0.08627451;"
          offset="0.66666883"
          id="stop3872" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3982" />
     </linearGradient>
@@ -367,19 +916,19 @@
       <stop
          id="stop3911"
          offset="0"
-         style="stop-color:#141414;stop-opacity:1;" />
+         style="stop-color:#282828;stop-opacity:1;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.3137255;"
+         style="stop-color:#282828;stop-opacity:0.3137255;"
          offset="0.33333319"
          id="stop3913" />
       <stop
          id="stop3915"
          offset="0.66666651"
-         style="stop-color:#141414;stop-opacity:0.08627451;" />
+         style="stop-color:#282828;stop-opacity:0.08627451;" />
       <stop
          id="stop3917"
          offset="1"
-         style="stop-color:#141414;stop-opacity:0;" />
+         style="stop-color:#282828;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -395,19 +944,19 @@
       <stop
          id="stop3871"
          offset="0"
-         style="stop-color:#141414;stop-opacity:1;" />
+         style="stop-color:#282828;stop-opacity:1;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.3137255;"
+         style="stop-color:#282828;stop-opacity:0.3137255;"
          offset="0.33333319"
          id="stop3873" />
       <stop
          id="stop3875"
          offset="0.66666651"
-         style="stop-color:#141414;stop-opacity:0.08627451;" />
+         style="stop-color:#282828;stop-opacity:0.08627451;" />
       <stop
          id="stop3877"
          offset="1"
-         style="stop-color:#141414;stop-opacity:0;" />
+         style="stop-color:#282828;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -423,19 +972,19 @@
       <stop
          id="stop3931"
          offset="0"
-         style="stop-color:#141414;stop-opacity:1;" />
+         style="stop-color:#282828;stop-opacity:1;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.3137255;"
+         style="stop-color:#282828;stop-opacity:0.3137255;"
          offset="0.33333343"
          id="stop3933" />
       <stop
          id="stop3935"
          offset="0.66666675"
-         style="stop-color:#141414;stop-opacity:0.08627451;" />
+         style="stop-color:#282828;stop-opacity:0.08627451;" />
       <stop
          id="stop3937"
          offset="1"
-         style="stop-color:#141414;stop-opacity:0;" />
+         style="stop-color:#282828;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -451,19 +1000,19 @@
       <stop
          id="stop3891"
          offset="0"
-         style="stop-color:#141414;stop-opacity:1;" />
+         style="stop-color:#282828;stop-opacity:1;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.3137255;"
+         style="stop-color:#282828;stop-opacity:0.3137255;"
          offset="0.33333129"
          id="stop3893" />
       <stop
          id="stop3895"
          offset="0.6666646"
-         style="stop-color:#141414;stop-opacity:0.08627451;" />
+         style="stop-color:#282828;stop-opacity:0.08627451;" />
       <stop
          id="stop3897"
          offset="1"
-         style="stop-color:#141414;stop-opacity:0;" />
+         style="stop-color:#282828;stop-opacity:0;" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -481,19 +1030,19 @@
       <stop
          id="stop3881"
          offset="0"
-         style="stop-color:#141414;stop-opacity:1;" />
+         style="stop-color:#282828;stop-opacity:1;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.3137255;"
+         style="stop-color:#282828;stop-opacity:0.3137255;"
          offset="0.33333349"
          id="stop3883" />
       <stop
          id="stop3885"
          offset="0.66666692"
-         style="stop-color:#141414;stop-opacity:0.08627451;" />
+         style="stop-color:#282828;stop-opacity:0.08627451;" />
       <stop
          id="stop3887"
          offset="1"
-         style="stop-color:#141414;stop-opacity:0;" />
+         style="stop-color:#282828;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -507,15 +1056,15 @@
     <linearGradient
        id="linearGradient3884">
       <stop
-         style="stop-color:#141414;stop-opacity:0.3137255;"
+         style="stop-color:#282828;stop-opacity:0.3137255;"
          offset="0"
          id="stop3886" />
       <stop
          id="stop3892"
          offset="0.5"
-         style="stop-color:#141414;stop-opacity:0.11764706;" />
+         style="stop-color:#282828;stop-opacity:0.11764706;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3888" />
     </linearGradient>
@@ -531,15 +1080,15 @@
     <linearGradient
        id="linearGradient3884-0">
       <stop
-         style="stop-color:#141414;stop-opacity:0.25490198;"
+         style="stop-color:#282828;stop-opacity:0.25490198;"
          offset="0"
          id="stop3886-6" />
       <stop
          id="stop3892-3"
          offset="0.5"
-         style="stop-color:#141414;stop-opacity:0.09411765;" />
+         style="stop-color:#282828;stop-opacity:0.09411765;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3888-8" />
     </linearGradient>
@@ -555,15 +1104,15 @@
     <linearGradient
        id="linearGradient3147">
       <stop
-         style="stop-color:#141414;stop-opacity:0.25490198;"
+         style="stop-color:#282828;stop-opacity:0.25490198;"
          offset="0"
          id="stop3149" />
       <stop
          id="stop3151"
          offset="0.5"
-         style="stop-color:#141414;stop-opacity:0.09411765;" />
+         style="stop-color:#282828;stop-opacity:0.09411765;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3153" />
     </linearGradient>
@@ -579,15 +1128,15 @@
     <linearGradient
        id="linearGradient3156">
       <stop
-         style="stop-color:#141414;stop-opacity:0.25490198;"
+         style="stop-color:#282828;stop-opacity:0.25490198;"
          offset="0"
          id="stop3158" />
       <stop
          id="stop3160"
          offset="0.5"
-         style="stop-color:#141414;stop-opacity:0.09411765;" />
+         style="stop-color:#282828;stop-opacity:0.09411765;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3162" />
     </linearGradient>
@@ -611,13 +1160,13 @@
       <stop
          id="stop3835"
          offset="0.4545452"
-         style="stop-color:#141414;stop-opacity:0.25490198;" />
+         style="stop-color:#282828;stop-opacity:0.25490198;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.09411765;"
+         style="stop-color:#282828;stop-opacity:0.09411765;"
          offset="0.72727263"
          id="stop3837" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3831" />
     </linearGradient>
@@ -641,13 +1190,13 @@
       <stop
          id="stop3175"
          offset="0.4545452"
-         style="stop-color:#141414;stop-opacity:0.25490198;" />
+         style="stop-color:#282828;stop-opacity:0.25490198;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.09411765;"
+         style="stop-color:#282828;stop-opacity:0.09411765;"
          offset="0.72727263"
          id="stop3177" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3179" />
     </linearGradient>
@@ -671,13 +1220,13 @@
       <stop
          id="stop3186"
          offset="0.4545452"
-         style="stop-color:#141414;stop-opacity:0.25490198;" />
+         style="stop-color:#282828;stop-opacity:0.25490198;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.09411765;"
+         style="stop-color:#282828;stop-opacity:0.09411765;"
          offset="0.72727263"
          id="stop3188" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3190" />
     </linearGradient>
@@ -701,13 +1250,13 @@
       <stop
          id="stop3197"
          offset="0.4545452"
-         style="stop-color:#141414;stop-opacity:0.25490198;" />
+         style="stop-color:#282828;stop-opacity:0.25490198;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.09411765;"
+         style="stop-color:#282828;stop-opacity:0.09411765;"
          offset="0.72727263"
          id="stop3199" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3201" />
     </linearGradient>
@@ -836,7 +1385,7 @@
        xlink:href="#linearGradient3197"
        id="radialGradient3553"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-4.8609848e-7,-1.9999983,2.1414143,-4.8609887e-7,-100.99998,250.99991)"
+       gradientTransform="matrix(-4.8609848e-7,-1.9999983,2.2828283,-4.8609887e-7,-100.99998,250.99991)"
        cx="45"
        cy="5"
        fx="45"
@@ -907,19 +1456,19 @@
     <linearGradient
        id="linearGradient3989">
       <stop
-         style="stop-color:#141414;stop-opacity:0.78431374;"
+         style="stop-color:#282828;stop-opacity:0.78431374;"
          offset="0"
          id="stop3991" />
       <stop
          id="stop3997"
          offset="0.5"
-         style="stop-color:#141414;stop-opacity:0.29411766;" />
+         style="stop-color:#282828;stop-opacity:0.29411766;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.07843138;"
+         style="stop-color:#282828;stop-opacity:0.07843138;"
          offset="0.75"
          id="stop3999" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3993" />
     </linearGradient>
@@ -937,19 +1486,19 @@
     <linearGradient
        id="linearGradient3272">
       <stop
-         style="stop-color:#141414;stop-opacity:0.78431374;"
+         style="stop-color:#282828;stop-opacity:0.78431374;"
          offset="0"
          id="stop3274" />
       <stop
          id="stop3276"
          offset="0.5"
-         style="stop-color:#141414;stop-opacity:0.29411766;" />
+         style="stop-color:#282828;stop-opacity:0.29411766;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.07843138;"
+         style="stop-color:#282828;stop-opacity:0.07843138;"
          offset="0.75"
          id="stop3278" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3280" />
     </linearGradient>
@@ -967,19 +1516,19 @@
     <linearGradient
        id="linearGradient3283">
       <stop
-         style="stop-color:#141414;stop-opacity:0.78431374;"
+         style="stop-color:#282828;stop-opacity:0.78431374;"
          offset="0"
          id="stop3285" />
       <stop
          id="stop3287"
          offset="0.5"
-         style="stop-color:#141414;stop-opacity:0.29411766;" />
+         style="stop-color:#282828;stop-opacity:0.29411766;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.07843138;"
+         style="stop-color:#282828;stop-opacity:0.07843138;"
          offset="0.75"
          id="stop3289" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3291" />
     </linearGradient>
@@ -997,19 +1546,19 @@
     <linearGradient
        id="linearGradient3294">
       <stop
-         style="stop-color:#141414;stop-opacity:0.78431374;"
+         style="stop-color:#282828;stop-opacity:0.78431374;"
          offset="0"
          id="stop3296" />
       <stop
          id="stop3298"
          offset="0.5"
-         style="stop-color:#141414;stop-opacity:0.29411766;" />
+         style="stop-color:#282828;stop-opacity:0.29411766;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.07843138;"
+         style="stop-color:#282828;stop-opacity:0.07843138;"
          offset="0.75"
          id="stop3300" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3302" />
     </linearGradient>
@@ -1027,19 +1576,19 @@
     <linearGradient
        id="linearGradient3305">
       <stop
-         style="stop-color:#141414;stop-opacity:0.78431374;"
+         style="stop-color:#282828;stop-opacity:0.78431374;"
          offset="0"
          id="stop3307" />
       <stop
          id="stop3309"
          offset="0.5"
-         style="stop-color:#141414;stop-opacity:0.29411766;" />
+         style="stop-color:#282828;stop-opacity:0.29411766;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.07843138;"
+         style="stop-color:#282828;stop-opacity:0.07843138;"
          offset="0.75"
          id="stop3311" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3313" />
     </linearGradient>
@@ -1055,19 +1604,19 @@
     <linearGradient
        id="linearGradient3316">
       <stop
-         style="stop-color:#141414;stop-opacity:0.78431374;"
+         style="stop-color:#282828;stop-opacity:0.78431374;"
          offset="0"
          id="stop3318" />
       <stop
          id="stop3320"
          offset="0.5"
-         style="stop-color:#141414;stop-opacity:0.29411766;" />
+         style="stop-color:#282828;stop-opacity:0.29411766;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.07843138;"
+         style="stop-color:#282828;stop-opacity:0.07843138;"
          offset="0.75"
          id="stop3322" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3324" />
     </linearGradient>
@@ -1083,19 +1632,19 @@
     <linearGradient
        id="linearGradient3327">
       <stop
-         style="stop-color:#141414;stop-opacity:0.78431374;"
+         style="stop-color:#282828;stop-opacity:0.78431374;"
          offset="0"
          id="stop3329" />
       <stop
          id="stop3331"
          offset="0.5"
-         style="stop-color:#141414;stop-opacity:0.29411766;" />
+         style="stop-color:#282828;stop-opacity:0.29411766;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.07843138;"
+         style="stop-color:#282828;stop-opacity:0.07843138;"
          offset="0.75"
          id="stop3333" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3335" />
     </linearGradient>
@@ -1111,19 +1660,19 @@
     <linearGradient
        id="linearGradient3338">
       <stop
-         style="stop-color:#141414;stop-opacity:0.78431374;"
+         style="stop-color:#282828;stop-opacity:0.78431374;"
          offset="0"
          id="stop3340" />
       <stop
          id="stop3342"
          offset="0.5"
-         style="stop-color:#141414;stop-opacity:0.29411766;" />
+         style="stop-color:#282828;stop-opacity:0.29411766;" />
       <stop
-         style="stop-color:#141414;stop-opacity:0.07843138;"
+         style="stop-color:#282828;stop-opacity:0.07843138;"
          offset="0.75"
          id="stop3344" />
       <stop
-         style="stop-color:#141414;stop-opacity:0;"
+         style="stop-color:#282828;stop-opacity:0;"
          offset="1"
          id="stop3346" />
     </linearGradient>
@@ -1191,7 +1740,7 @@
        id="linearGradient4795"
        osb:paint="solid">
       <stop
-         style="stop-color:#141414;stop-opacity:1;"
+         style="stop-color:#282828;stop-opacity:1;"
          offset="0"
          id="stop4793" />
     </linearGradient>
@@ -1242,19 +1791,19 @@
      id="layer1"
      transform="translate(-204.5,-262.34082)">
     <rect
-       style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.32000008"
+       style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.196872"
        id="center"
-       width="16"
-       height="16"
-       x="217.21793"
-       y="296.11887" />
+       width="9.8435841"
+       height="9.8435841"
+       x="228.3282"
+       y="288.24863" />
     <g
        id="right"
-       transform="matrix(2,0,0,0.32,-282.78207,209.07887)"
-       style="fill:#141414;fill-opacity:1">
+       transform="matrix(1.230448,0,0,0.19687169,-79.283803,234.69952)"
+       style="fill:#232323;fill-opacity:1">
       <rect
          transform="rotate(90)"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.28284276"
+         style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.282843"
          id="rect5092"
          width="50"
          height="4"
@@ -1266,24 +1815,24 @@
          height="0.25"
          width="50"
          id="rect5084"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.07071069"
+         style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.0707107"
          transform="rotate(90)" />
     </g>
     <g
        id="left"
-       transform="matrix(-2,0,0,0.32,733.21793,209.07887)"
-       style="fill:#141414;fill-opacity:1">
+       transform="matrix(-1.230448,0,0,0.19687169,545.7838,234.69952)"
+       style="fill:#232323;fill-opacity:1">
       <rect
          y="-262"
          x="272"
          height="4"
          width="50"
          id="rect5094"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.28284276"
+         style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.282843"
          transform="rotate(90)" />
       <rect
          transform="rotate(90)"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.07071069"
+         style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.0707107"
          id="rect5096"
          width="50"
          height="0.25"
@@ -1291,12 +1840,12 @@
          y="-262" />
     </g>
     <g
-       transform="matrix(0,2,0.32,0,130.17793,-203.88113)"
+       transform="matrix(0,1.230448,0.19687169,0,174.77911,-19.363395)"
        id="bottom"
-       style="fill:#141414;fill-opacity:1">
+       style="fill:#232323;fill-opacity:1">
       <rect
          transform="rotate(90)"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.28284276"
+         style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.282843"
          id="rect5104"
          width="50"
          height="4"
@@ -1308,24 +1857,24 @@
          height="0.25"
          width="50"
          id="rect5106"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.07071069"
+         style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.0707107"
          transform="rotate(90)" />
     </g>
     <g
        id="top"
-       transform="matrix(0,-2,0.31999922,0,130.17818,812.1189)"
-       style="fill:#141414;fill-opacity:1">
+       transform="matrix(0,-1.230448,0.19687121,0,174.77926,605.70423)"
+       style="fill:#232323;fill-opacity:1">
       <rect
          y="-262"
          x="272"
          height="4"
          width="50"
          id="rect5114"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.28284276"
+         style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.282843"
          transform="rotate(90)" />
       <rect
          transform="rotate(90)"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.07071069"
+         style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.0707107"
          id="rect5116"
          width="50"
          height="0.25"
@@ -1334,87 +1883,67 @@
     </g>
     <g
        id="topright"
-       transform="matrix(0.5,0,0,0.5,115.96635,148.02622)"
-       style="fill:#141414;fill-opacity:1">
-      <rect
+       transform="matrix(0.30761201,0,0,0.30761201,166.0358,197.13846)"
+       style="fill:#232323;fill-opacity:1">
+      <path
          transform="rotate(90)"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.32000005"
+         style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.32"
          id="rect4538"
          width="16"
          height="16"
          x="280.1853"
-         y="-250.50316" />
-      <rect
-         y="-249.50316"
-         x="281.1853"
-         height="15"
-         width="15"
-         id="rect6108"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.31414144"
-         transform="rotate(90)" />
+         y="-250.50316"
+         sodipodi:type="rect"
+         inkscape:path-effect="#path-effect2"
+         d="m 296.1853,-250.50316 v 16 h -16 a 16,16 135 0 1 16,-16 z" />
     </g>
     <g
-       transform="matrix(-0.5,0,0,0.5,334.46951,148.02621)"
+       transform="matrix(-0.30761201,0,0,0.30761201,300.4642,197.13845)"
        id="topleft"
-       style="fill:#141414;fill-opacity:1">
-      <rect
+       style="fill:#232323;fill-opacity:1">
+      <path
          y="-250.50316"
          x="280.1853"
          height="16"
          width="16"
          id="rect6116"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.32000005"
-         transform="rotate(90)" />
-      <rect
+         style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.32"
          transform="rotate(90)"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.31414144"
-         id="rect6118"
-         width="15"
-         height="15"
-         x="281.1853"
-         y="-249.50316" />
+         sodipodi:type="rect"
+         inkscape:path-effect="#path-effect1"
+         d="m 296.1853,-250.50316 v 16 h -16 a 16,16 135 0 1 16,-16 z" />
     </g>
     <g
        id="bottomleft"
-       transform="matrix(-0.5,0,0,-0.5,334.46951,460.21152)"
-       style="fill:#141414;fill-opacity:1">
-      <rect
+       transform="matrix(-0.30761201,0,0,-0.30761201,300.4642,389.20236)"
+       style="fill:#232323;fill-opacity:1">
+      <path
          transform="rotate(90)"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.32000005"
+         style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.32"
          id="rect6126"
          width="16"
          height="16"
          x="280.1853"
-         y="-250.50316" />
-      <rect
-         y="-249.50316"
-         x="281.1853"
-         height="15"
-         width="15"
-         id="rect6128"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.31414144"
-         transform="rotate(90)" />
+         y="-250.50316"
+         sodipodi:type="rect"
+         inkscape:path-effect="#path-effect19"
+         d="m 296.1853,-250.50316 v 16 h -16 a 16,16 135 0 1 16,-16 z" />
     </g>
     <g
-       transform="matrix(0.5,0,0,-0.5,115.96635,460.21152)"
+       transform="matrix(0.30761201,0,0,-0.30761201,166.0358,389.20236)"
        id="bottomright"
-       style="fill:#141414;fill-opacity:1">
-      <rect
+       style="fill:#232323;fill-opacity:1">
+      <path
          y="-250.50316"
          x="280.1853"
          height="16"
          width="16"
          id="rect6136"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.32000005"
-         transform="rotate(90)" />
-      <rect
+         style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:0.32"
          transform="rotate(90)"
-         style="fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.31414144"
-         id="rect6138"
-         width="15"
-         height="15"
-         x="281.1853"
-         y="-249.50316" />
+         sodipodi:type="rect"
+         inkscape:path-effect="#path-effect20"
+         d="m 296.1853,-250.50316 v 16 h -16 a 16,16 135 0 1 16,-16 z" />
     </g>
   </g>
 </svg>

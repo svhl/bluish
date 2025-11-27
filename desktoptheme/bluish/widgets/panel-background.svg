@@ -157,7 +157,7 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="fill:#0f0f0f;fill-opacity:1;stroke-width:0.95999998"
+     style="fill:#1e1e1e;fill-opacity:1;stroke-width:0.95999998"
      width="48"
      y="12"
      x="3.5"
@@ -169,9 +169,9 @@
      x="3.5"
      y="6"
      width="48"
-     style="fill:#0f0f0f;fill-opacity:1;stroke-width:0.33941126" />
+     style="fill:#1e1e1e;fill-opacity:1;stroke-width:0.33941126" />
   <rect
-     style="fill:#0f0f0f;fill-opacity:1;stroke-width:0.33941126"
+     style="fill:#1e1e1e;fill-opacity:1;stroke-width:0.33941126"
      width="48"
      y="60"
      x="3.5"
@@ -184,9 +184,9 @@
      x="12"
      y="-54.5"
      width="48"
-     style="fill:#0f0f0f;fill-opacity:1;stroke-width:0.239999" />
+     style="fill:#1e1e1e;fill-opacity:1;stroke-width:0.239999" />
   <rect
-     style="fill:#0f0f0f;fill-opacity:1;stroke-width:0.25923"
+     style="fill:#1e1e1e;fill-opacity:1;stroke-width:0.25923"
      width="48"
      y="-3.5"
      x="12"
@@ -200,9 +200,9 @@
      x="6"
      y="-3.5"
      width="6"
-     style="fill:#0f0f0f;fill-opacity:1;stroke-width:0.12" />
+     style="fill:#1e1e1e;fill-opacity:1;stroke-width:0.12" />
   <rect
-     style="fill:#0f0f0f;fill-opacity:1;stroke-width:0.12"
+     style="fill:#1e1e1e;fill-opacity:1;stroke-width:0.12"
      width="6"
      y="-57.5"
      x="6"
@@ -216,9 +216,9 @@
      x="60"
      y="-57.5"
      width="6"
-     style="fill:#0f0f0f;fill-opacity:1;stroke-width:0.12" />
+     style="fill:#1e1e1e;fill-opacity:1;stroke-width:0.12" />
   <rect
-     style="fill:#0f0f0f;fill-opacity:1;stroke-width:0.12"
+     style="fill:#1e1e1e;fill-opacity:1;stroke-width:0.12"
      width="6"
      y="-3.5"
      x="60"

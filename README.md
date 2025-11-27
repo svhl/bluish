@@ -21,16 +21,6 @@ Then, change the Plasma Style and Colors to Bluish in settings.
 
 Based on **K10neBlack** by **phob1an** and **Materia Manjaro Dark** by **freefreeno**. Goes well with Papirus Dark icons.
 
-Fixes:
-
-- Removed the busy widget SVG since it's janky.
-- Added microphone icon.
-- Removed tranlucency on a few plasmoid icons like volume and clipboard. This is because the translucent regions shimmer when the cursor is hovering over the icon.
-
-Wontfix:
-
-- A few plasmoid icons like volume and clipboard brighten up on hover, even if they have solid fill with full opacity. More like a cantfix than a wontfix.
-
 ### Bluish Colors
 
 ![Colors](https://github.com/user-attachments/assets/8c73c170-a3f1-49a3-b83e-d64382e0351c)
