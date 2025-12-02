@@ -1,6 +1,8 @@
 # Bluish
 
-Dark themes with blue accents for Plasma 5. This repo contains Plasma style and color scheme to theme the GUI. For a complementary color scheme to theme the CLI, check out the [Pinkish](https://github.com/svhl/pinkish) repo.
+Dark themes with blue accents for KDE Plasma 6. This repo contains Plasma style and color scheme to theme the GUI. Goes well with **Papirus Dark** icons.
+
+For a complementary color scheme to theme the CLI, check out the [Pinkish](https://github.com/svhl/pinkish) repo.
 
 ## How to use
 
@@ -15,17 +17,17 @@ Then, change the Plasma Style and Colors to Bluish in settings.
 
 ## Themes
 
-### Bluish Plasma Style
+### Plasma Style
 
-![Plasma Style](https://github.com/user-attachments/assets/3e7ae5fd-7261-4707-baea-d496b79319c7)
+![Plasma Style](https://github.com/user-attachments/assets/aa9e2ef2-83ed-4d13-ab31-2fdacf7ff2b2)
 
-Based on **K10neBlack** by **phob1an** and **Materia Manjaro Dark** by **freefreeno**. Goes well with Papirus Dark icons.
+Based on **K10neBlack** by **phob1an** and **Breeze** by **KDE**.
 
-### Bluish Colors
+### Colors
 
-![Colors](https://github.com/user-attachments/assets/8c73c170-a3f1-49a3-b83e-d64382e0351c)
+![Colors](https://github.com/user-attachments/assets/83fefa0e-408e-4923-9860-7d09efb12ce9)
 
-Based on **Sweet** by **EliverLara** and **Rosé Pine**. Goes well with Papirus Dark icons.
+Based on **Rosé Pine** and **Breeze Dark** by **KDE**.
 
 ## License
 
